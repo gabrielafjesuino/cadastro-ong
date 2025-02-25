@@ -100,7 +100,7 @@ header {
   
 .input:focus {
     box-shadow: 0 0 0 2.5px #2f303d;
-    width: 400px !important;
+    width: 800px !important;
     border: none;
 }
 
@@ -271,6 +271,10 @@ footer {
     margin-top: -17.2px !important;
 }
 
+.imgfooter {
+    width: 30px;
+}
+
 /* Fim - Rodapé */
 
 @media (max-width: 426px) {
@@ -373,7 +377,7 @@ footer {
     }
 
     .imgfooter {
-        width: 40px;
+        width: 30px;
     }
 
     /* Fim - Rodapé */
